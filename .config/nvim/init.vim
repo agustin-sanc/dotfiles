@@ -8,3 +8,4 @@ colorscheme gruvbox
 set number 		" Show line numbers
 set tabstop=4	" Set of spaces in one tab 
 set relativenumber " Turn on relative numbering
+set mouse=a		" Enable mouse interaction inside Neovim
