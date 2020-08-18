@@ -1,0 +1,47 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Application settings for alacritty
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+noborder=true
+noborderrule=3
+wmclass=alacritty
+wmclassmatch=1
+
+[2]
+Description=Application settings for spotify
+desktop=2
+desktoprule=3
+noborder=true
+noborderrule=2
+wmclass=spotify
+wmclassmatch=1
+
+[3]
+Description=Application settings for brave-browser
+desktop=4
+desktoprule=3
+noborder=true
+noborderrule=2
+wmclass=brave-browser
+wmclassmatch=1
+
+[4]
+Description=Application settings for discord
+desktop=3
+desktoprule=2
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+noborder=true
+noborderrule=2
+wmclass=discord
+wmclassmatch=1
+
+[General]
+count=4
